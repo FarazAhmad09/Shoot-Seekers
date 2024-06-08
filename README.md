@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+**About Shoot---Seekers**
+
+
+"Discover Shoot - Seekers: Your exclusive hub for finding, hiring, and connecting with top-notch photographers hassle-free! Say goodbye to generic freelance platforms. Embrace simplicity and focus with Shoot - Seekers, tailored solely for your photographic needs."
+
+**Shoot - Seekers: Your Go-To Platform for Finding and Hiring Photographers**
+
+Shoot - Seekers is a specialized online platform designed to help individuals and businesses find, hire, and contact professional photographers with ease. Unlike other freelance marketplaces that cater to a wide range of services, Shoot - Seekers is dedicated exclusively to photography, ensuring a focused and streamlined experience for those seeking photographic services.
+
+**Discover Talented Photographers**
+
+Shoot - Seekers features a vast and diverse database of photographers from around the world. Whether you need a wedding photographer, a portrait artist, a commercial photographer, or a specialist in any other photographic field, Shoot - Seekers connects you with professionals who can meet your specific needs.
+
+**Easy Search and Filter Options**
+
+The platform offers intuitive search and filter options that allow users to find photographers based on various criteria such as location, type of photography, style, availability, and price range. This ensures that you can quickly and easily find the right photographer for your project without any hassle.
+
+**Detailed Photographer Profiles**
+
+Each photographer on Shoot - Seekers has a comprehensive profile that includes a portfolio of their work, client reviews, and detailed information about their services, pricing, and availability. This helps users make informed decisions by providing a clear understanding of the photographer's style, experience, and capabilities.
+
+**Direct Communication and Hiring**
+
+Shoot - Seekers facilitates direct communication between users and photographers, allowing you to discuss your requirements, ask questions, and negotiate terms directly through the platform. This ensures clear and effective communication, leading to a better overall experience. Once you find the right photographer, you can easily book their services through the platform's secure and user-friendly booking system.
+
