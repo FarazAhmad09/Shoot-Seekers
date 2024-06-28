@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-**About Shoot---Seekers**
+**About Shoot-Seekers**
 
 
 "Discover Shoot - Seekers: Your exclusive hub for finding, hiring, and connecting with top-notch photographers hassle-free! Say goodbye to generic freelance platforms. Embrace simplicity and focus with Shoot - Seekers, tailored solely for your photographic needs."
