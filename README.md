@@ -89,7 +89,7 @@ The platform offers intuitive search and filter options that allow users to find
 
 **Detailed Photographer Profiles**
 
-Each photographer on Shoot - Seekers has a comprehensive profile that includes a portfolio of their work, client reviews, and detailed information about their services, pricing, and availability. This helps users make informed decisions by providing a clear understanding of the photographer's style, experience, and capabilities.
+Each photographer on Shoot - Seekers has a comprehensive profile that includes a portfolio of their work, client reviews, and detailed information about their services, pricing, and availability. This helps users make informed decisions by providing a clear understanding of the photographer's style, experience, and capabilities...
 
 **Direct Communication and Hiring**
 
